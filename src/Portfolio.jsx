@@ -292,7 +292,7 @@ const Portfolio = () => {
         <div className={containerClass}>
           <div className="text-center">
             <p className="text-sm sm:text-base text-gray-400">
-              © 2024 Ricardo Moreno Santos. Desenvolvido com React e muito ☕
+              © 2024 Ricardo Moreno Santos.
             </p>
           </div>
         </div>
